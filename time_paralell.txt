@@ -1,0 +1,9 @@
+Collecting valid triplets...
+Found 4 valid triplets.
+Using 8 worker processes.
+
+
+==================================================
+SUMMARY
+  Total triplets processed: 4
+  Time taken: 2.82 seconds (0.05 minutes)

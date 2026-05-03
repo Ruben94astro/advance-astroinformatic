@@ -1,0 +1,6 @@
+SUMMARY:
+  Total .lc files found: 4
+  Successfully processed: 4
+  Skipped (missing outlier): 0
+  Skipped (missing median): 0
+  Total time: 6.94 seconds (0.12 minutes)
